@@ -8,12 +8,10 @@ Clone the repo:
 git clone https://github.com/jhmin99/Node-study.git
 
 cd Node-study
-
 ```
 Install dependencies:
 ```
 npm i
-
 ```
 
 Set environment variables:
@@ -26,5 +24,4 @@ cp .env.example .env
 
 ```
 npm run start
-
 ```
